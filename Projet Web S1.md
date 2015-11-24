@@ -1,4 +1,2 @@
 # Projet-Web-S1
-test
-
-test 2
+http://liris.cnrs.fr/~pchampin/enseignement/intro-web/projet.html
