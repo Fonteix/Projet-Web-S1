@@ -7,9 +7,22 @@
 </head>
 <body>
 	<header>
+	
+
+	
 		<h1>Bonjour et bienvenu</h1>
 		
 		<h2>Promotions</h2>
+		<img src="accueil.jpg" alt="promotions" />
+			
+			
+			<section id="recherche">
+				<table>
+				<tr><td><label for="Recherche">Recherche :</td>
+				<td><input id="recherche"></td></tr>
+			</section>
+			
+			
 	</header>
 
 </body>
