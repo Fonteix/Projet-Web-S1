@@ -2,18 +2,19 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" type="text/css" href="assets/stylepagedegarde.css">
-    <title>L'apprentissage de Linux</title>
+    <link rel="stylesheet" type="text/css" href="stylepagedegarde.css">
+    <title>Site</title>
 </head>
 <body>
 	<header>
 	
 
 	
-		<h1>Bonjour et bienvenu</h1>
+		<h1>Bonjour et bienvenue</h1>
 		
 		<h2>Promotions</h2>
-		<img src="accueil.jpg" alt="promotions" />
+		<img src="accueil.jpg" width="50%" height="50%" alt="promotions" />
+		
 			
 			
 			<section id="recherche">
@@ -22,6 +23,15 @@
 				<td><input id="recherche"></td></tr>
 			</section>
 			
+			<section id="liens">
+				<a href="../Page_de_resultats/Page_de_resultats.html">
+					<li>Page des résultats</li>
+				</a>
+				
+				<a href="../Page_qui_sommes_nous/Page_qui_sommes_nous.html">
+					<li>Qui sommes-nous ?</li>
+				</a>
+			</section>
 			
 	</header>
 
