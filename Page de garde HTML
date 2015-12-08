@@ -2,26 +2,59 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" type="text/css" href="stylepagedegarde.css">
+    <link rel="stylesheet" type="text/css" href="../style.css">
     <title>Site</title>
 </head>
 <body>
-	<header>
-	
 
+
+	<header>
+	<img src="logo.png" alt="Pcland" />
+	</header>
+		
+		
+		
+		<form id="barrerecherche" method="post" action="article.html">
+			<input type="text" name="recherche" onFocus="this.value"=''>
+			<input id="recherche" value="Rechercher" class="button" type="submit">
+		</form>
+		
+		
+		
+		<nav>
+			<ul id="menu">
+				<li><a href="#">menu 1</a>
+					<ul>
+						<li><a href="../Articles/winrar.html">lien 1</a></li>
+						<li><a href="#">lien 1</a></li>
+						<li><a href="#">lien 1</a></li>
+						<li><a href="#">lien 1</a></li>
+					</ul>
+				</li>
+				<li><a href="#">menu 2</a>
+					<ul>
+						<li><a href="#">Lien 2</a></li>
+						<li><a href="#">Lien 2</a></li>
+						<li><a href="#">Lien 2</a></li>
+						<li><a href="#">Lien 2</a></li>
+					</ul>
+				</li>
+			</ul>
+		</nav>
+		
 	
-		<h1>Bonjour et bienvenue</h1>
 		
-		<h2>Promotions</h2>
-		<img src="accueil.jpg" width="50%" height="50%" alt="promotions" />
+		
+		
+		
+		
+		
 		
 			
 			
-			<section id="recherche">
-				<table>
-				<tr><td><label for="Recherche">Recherche :</td>
-				<td><input id="recherche"></td></tr>
-			</section>
+			
+			
+			
 			
 			<section id="liens">
 				<a href="../Page_de_resultats/Page_de_resultats.html">
@@ -33,7 +66,7 @@
 				</a>
 			</section>
 			
-	</header>
+	
 
 </body>
 </html>
