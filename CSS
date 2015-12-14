@@ -9,49 +9,70 @@ background-repeat: no-repeat;
 
 
 nav{
-padding: 5px 500px 5px 5px;
+padding: 2px 400px 2px 1px;
 background-color : rgb(40,40,40);
-float: left;
 }
+
 
 
 #barrerecherche
 {
-float: right
+
+/*float: center;
+position: fixed;
+margin-left: 40%;
+float: right;*/
 }
+.barre .champ{width:35%; height:40px;}
+.barre .button{background-image: url(Page_de_garde/bouton_recherche.png);
+background-repeat: 
+no-repeat;
+background-size: cover; 
+width:45px; 
+height:45px;
+padding:0;}
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
 div {
 color: black;
 font-family: arial;
 border-top: 5px solid black;
 border-bottom: 5px solid black;
 /*padding: 0% 10px 0% 0%;*/
-background-color : rgb(255,255,255);}
+/*background-color : rgb(255,255,255);}
+*/
 
 
-
-
-
-h2  {
+/*h2  {
 color: black;
 font-family: arial;
 border-top: 5px solid black;
 border-bottom: 5px solid black;
-/*padding: 0% 10px 0% 0%;*/
-background-color : rgb(255,255,255);}
+padding: 0% 10px 0% 0%;
+background-color : rgb(255,255,255);}*/
+
 
 
 #liens {
 float: right;
-margin-top: 0px;
-
 }
-
-
-
 
 
 
