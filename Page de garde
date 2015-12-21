@@ -1,0 +1,113 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="../style.css">
+    <title>Site</title>
+</head>
+<body>
+
+
+	<header>
+		<img src="../logo.png" alt="Pcland" />
+	</header>
+		
+		
+		
+		<div id="barrerecherche">
+			<form method="post" action="../Articles/Resultat_recherche.html" class="barre">
+				<input class="champ" type="text" name="recherche" onFocus="this.value"='' placeholder="Recherche">
+				<input class="button" id="recherche" value=" " type="submit">
+			</form>
+		</div>
+		
+		
+		
+		<nav>
+			<ul id="menu">
+			
+				<li><a href="../Page_de_garde/Page_de_garde.html">Accueil</a></li>
+				<li><a href="#">Ordinateurs</a>
+					<ul>
+						<li><a href="../Articles/PC_fixe.html">PC fixe</a></li>
+						<li><a href="../Articles/PC_portable.html">PC portable</a></li>
+					</ul>
+				</li>
+				
+				<li><a href="#">Composants</a>
+					<ul>
+						<li><a href="../Articles/Processeur.html">Processeur</a></li>
+						<li><a href="../Articles/Carte_graphique.html">Carte graphique</a></li>
+						<li><a href="../Articles/Memoire_ram.html">Memoire Ram</a></li>
+					</ul>
+				</li>
+				
+				<li>
+					<a href="../Gestion_client/Contact.html">Contact</a>
+				</li>
+				
+				
+				
+				<li>
+					<a href="../Gestion_client/Login.html">Login</a>
+				</li>
+								
+				
+			</ul>
+		</nav>
+		
+		
+
+		
+		
+		<div class="tab_composants">
+			<table>
+				<tr>
+					<td><a href="../Articles/PC_portable.html"><img src="../PC_portable.jpg" height="200"  alt="PC_portable"/></a></td>
+					<td><a href="../Articles/PC_fixe.html"><img src="../PC_tour.jpg" height="200" alt="PC_tour"/></a></td>
+				</tr>
+				<tr>
+					<td>
+						<a href="../Articles/PC_portable.html">
+							<p>
+								<strong>PC portrable 512&#8364; </strong>
+							</p>
+						</a>
+					</td>
+						
+					<td>
+						<a href="../Articles/PC_fixe.html">
+							<p>
+								<strong>PC fixe 299&#8364; </strong>
+							</p>
+						</a>
+					</td>
+				</tr>
+				
+				<tr>
+					<td><a href="../Articles/Processeur.html"><img src="../Processeurs.jpg" height="200" alt="Processeurs"/></a></td>
+				</tr>
+				<tr>
+					<td>
+						<a href="../Articles/Processeur.html">
+							<p>
+								<strong>Nouvelle generation de processeurs en promotion !</strong>
+							</p>
+						</a>
+					</td>
+				</tr>
+			<table>
+		</div>
+
+
+
+			
+			<footer>
+				<p>PCland<br/>Etienne Fonteix 2015-2016
+				<br/><a href="http://iutdoua-webetu.univ-lyon1.fr/~p1502592"> http://iutdoua-webetu.univ-lyon1.fr/~p1502592 </a></p>
+			</footer>
+	
+
+</body>
+</html>
