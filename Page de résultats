@@ -1,0 +1,74 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="../style.css">
+    <title>Resultat_recherche</title>
+</head>
+<body>
+
+
+	<header>
+		<img src="../logo.png" alt="Pcland" />
+	</header>
+		
+		
+		
+		<div id="barrerecherche">
+			<form method="post" action="Resultat_recherche.html" class="barre">
+				<input class="champ" type="text" name="recherche" onFocus="this.value"='' placeholder="Recherche">
+				<input class="button" id="recherche" value=" " type="submit">
+			</form>
+		</div>
+		
+		
+		
+		<nav>
+			<ul id="menu">
+			
+				<li><a href="../Page_de_garde/Page_de_garde.html">Accueil</a></li>
+				<li><a href="#">Ordinateurs</a>
+					<ul>
+						<li><a href="PC_fixe.html">PC fixe</a></li>
+						<li><a href="PC_portable.html">PC portable</a></li>
+					</ul>
+				</li>
+				
+				<li><a href="#">Composants</a>
+					<ul>
+						<li><a href="Processeur.html">Processeur</a></li>
+						<li><a href="Carte_graphique.html">Carte graphique</a></li>
+						<li><a href="Memoire_ram.html">Memoire Ram</a></li>
+					</ul>
+				</li>
+				
+				<li>
+					<a href="../Gestion_client/Contact.html">Contact</a>
+				</li>
+
+				<li>
+					<a href="../Gestion_client/Login.html">Login</a>
+				</li>
+								
+				
+			</ul>
+		</nav>
+		
+		
+		
+		
+		<h1>Resultats</h1>
+		
+		
+		
+		
+		
+			<footer>
+				<p>PCland<br/>Etienne Fonteix 2015-2016
+				<br/><a href="http://iutdoua-webetu.univ-lyon1.fr/~p1502592"> http://iutdoua-webetu.univ-lyon1.fr/~p1502592 </a></p>
+			</footer>
+	
+
+</body>
+</html>
