@@ -1,4 +1,4 @@
-  
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -39,7 +39,6 @@
 					<ul>
 						<li><a href="Processeur.html">Processeur</a></li>
 						<li><a href="Carte_graphique.html">Carte graphique</a></li>
-						<li><a href="Memoire_ram.html">Memoire Ram</a></li>
 					</ul>
 				</li>
 				
@@ -57,8 +56,47 @@
 		
 		
 		
-		<h1>Carte_graphique</h1>
-		
+		<h1>Carte graphique</h1>
+		<div class="tableau">
+			<table>
+					<tr>
+						<th>Geforce GTX 980ti</th>
+						<th>Caractéristiques</th>
+					</tr>
+						<tr>
+							<td><img src="../980ti.jpg" height="200" alt="GTX 980ti"/></a></td>
+							<td>
+								<p>
+									<b>Prix : 749&#8364;</b><br/><br/>
+									<b>Fréquence du chipset :</b> 1152 Mhz<br/>
+									<b>Taille mémoire vidéo : </b>6 Go<br/>
+									<b>Finesse de gravure :</b> 28 nm<br/>
+									<b>Consommation :</b> 280 W<br/>
+								</p>
+							</td>
+						</tr>
+			</table>
+
+			<br/>
+			
+			<table>
+					<tr>
+						<th>AMD Radeon R5 230</th>
+						<th>Caractéristiques</th>
+					</tr>
+						<tr>
+							<td><img src="../AMD_R5.jpg" height="200" alt="AMD R5 230"/></a></td>
+							<td>
+								<p>
+									<b>Prix : 56&#8364;</b><br/><br/>
+									<b>Fréquence du chipset :</b> 625 Mhz<br/>
+									<b>Taille mémoire vidéo : </b>1 Go<br/>
+									<b>Finesse de gravure :</b> 40 nm<br/>
+								</p>
+							</td>
+						</tr>
+			</table>
+		</div>
 		
 		
 			<footer>
