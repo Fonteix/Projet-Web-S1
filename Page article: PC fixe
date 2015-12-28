@@ -39,7 +39,6 @@
 					<ul>
 						<li><a href="Processeur.html">Processeur</a></li>
 						<li><a href="Carte_graphique.html">Carte graphique</a></li>
-						<li><a href="Memoire_ram.html">Memoire Ram</a></li>
 					</ul>
 				</li>
 				
@@ -57,7 +56,53 @@
 		
 		
 		
-		<h1>PC fixes</h1>
+		<h1>PC fixe</h1>
+		<div class="tableau">
+			<table>
+					<tr>
+						<th>PC Battlebox</th>
+						<th>Caractéristiques</th>
+					</tr>
+						<tr>
+							<td><img src="../PC_tour2.jpg" height="200" alt="PC Battlebox"/></a></td>
+							<td>
+								<p>
+									<b>Prix : 1280&#8364;</b><br/><br/>
+									<b>Système d'exploitation :</b> aucun<br/>
+									<b>Processeur :</b> Intel Core i7 6700k 4 Ghz<br/>
+									<b>Mémoire :</b> 2x8 Go DDR4<br/>
+									<b>Stockage :</b> 1x480 Go SSD 1x4To HDD<br/>
+									<b>Carte graphique :</b> Geforce GTX 1090 ti<br/>
+								</p>
+							</td>
+						</tr>
+			</table>
+
+			<br/>
+			
+			<table>
+<tr>
+						<th>PC Abaddon</th>
+						<th>Caractéristiques</th>
+					</tr>
+						<tr>
+							<td><img src="../PC_tour.jpg" height="200" alt="PC Abaddon"/></a></td>
+							<td>
+								<p>
+									<b>Prix :  499&#8364;</b><br/><br/>
+									<b>Système d'exploitation :</b> Windows 10<br/>
+									<b>Processeur :</b> Intel Core I3-4130 3.4 Ghz<br/>
+									<b>Mémoire :</b> 2x4 Go DDR3<br/>
+									<b>Stockage :</b> 1x2To HDD<br/>
+									<b>Carte graphique :</b>Sapphire amd R9 290<br/>
+								</p>
+							</td>
+						</tr>
+			</table>
+		</div>
+		
+		
+		
 		
 		
 		
