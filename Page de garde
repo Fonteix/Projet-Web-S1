@@ -39,7 +39,6 @@
 					<ul>
 						<li><a href="../Articles/Processeur.html">Processeur</a></li>
 						<li><a href="../Articles/Carte_graphique.html">Carte graphique</a></li>
-						<li><a href="../Articles/Memoire_ram.html">Memoire Ram</a></li>
 					</ul>
 				</li>
 				
@@ -71,7 +70,7 @@
 					<td>
 						<a href="../Articles/PC_portable.html">
 							<p>
-								<strong>PC portrable 512&#8364; </strong>
+								<strong>Acer C7 512&#8364; </strong>
 							</p>
 						</a>
 					</td>
@@ -79,9 +78,17 @@
 					<td>
 						<a href="../Articles/PC_fixe.html">
 							<p>
-								<strong>PC fixe 299&#8364; </strong>
+								<strong>PC Abaddon 499&#8364; </strong>
 							</p>
 						</a>
+					</td>
+				</tr>
+				
+				<tr>
+					<td>
+						<p>
+							<br/>
+						</p>
 					</td>
 				</tr>
 				
@@ -92,7 +99,7 @@
 					<td>
 						<a href="../Articles/Processeur.html">
 							<p>
-								<strong>Nouvelle generation de processeurs en promotion !</strong>
+								<strong>Nouvelle generation de processeurs !</strong>
 							</p>
 						</a>
 					</td>
