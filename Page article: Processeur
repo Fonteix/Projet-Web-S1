@@ -39,7 +39,6 @@
 					<ul>
 						<li><a href="Processeur.html">Processeur</a></li>
 						<li><a href="Carte_graphique.html">Carte graphique</a></li>
-						<li><a href="Memoire_ram.html">Memoire Ram</a></li>
 					</ul>
 				</li>
 				
@@ -56,8 +55,48 @@
 		</nav>
 		
 		
-		<h1>Procs</h1>
-		
+		<h1>Processeur</h1>
+		<div class="tableau">
+			<table>
+					<tr>
+						<th>Intel Core i7-6700K</th>
+						<th>Caractéristiques</th>
+					</tr>
+						<tr>
+							<td><img src="../Processeur_I7.jpg" height="200" alt="PC_tour"/></a></td>
+							<td>
+								<p>
+									<b>Prix : 459&#8364;</b><br/><br/>
+									<b>Fréquence :</b> 4 Ghz<br/>
+									<b>Nombre de thread : </b>8<br/>
+									<b>Finesse de gravure :</b> 14 nm<br/>
+									<b>Architecture :</b> Skylake<br/>
+								</p>
+							</td>
+						</tr>
+			</table>
+
+			<br/>
+			
+			<table>
+					<tr>
+						<th>Intel Core i5-6600K</th>
+						<th>Caractéristiques</th>
+					</tr>
+						<tr>
+							<td><img src="../Processeur_I5.jpg" height="200" alt="PC_tour"/></a></td>
+							<td>
+								<p>
+									<b>Prix :  299&#8364;</b><br/><br/>
+									<b>Fréquence :</b> 3.5 Ghz<br/>
+									<b>Nombre de thread : </b>4<br/>
+									<b>Finesse de gravure :</b> 14 nm<br/>
+									<b>Architecture :</b> Skylake<br/>
+								</p>
+							</td>
+						</tr>
+			</table>
+		</div>
 		
 		
 		
