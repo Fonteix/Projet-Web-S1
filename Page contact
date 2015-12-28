@@ -39,7 +39,6 @@
 					<ul>
 						<li><a href="../Articles/Processeur.html">Processeur</a></li>
 						<li><a href="../Articles/Carte_graphique.html">Carte graphique</a></li>
-						<li><a href="../Articles/Memoire_ram.html">Memoire Ram</a></li>
 					</ul>
 				</li>
 				
@@ -59,7 +58,14 @@
 		
 		
 		<h1>Contact</h1>
-		
+			<div class="Pcontact"
+				<p>
+					<b>Créateur du site :</b> Etienne Fonteix</br>
+					<b>Adresse Email :</b> etienne.fonteix@etu.univ-lyon1.fr</br>
+					Site réalisé dans le cadre du projet web à l'IUT informatique lyon 1, année 2015-2016</br>
+					Lien de la base de donnée du site : <a href="http://iutdoua-webetu.univ-lyon1.fr/~p1502592"> http://iutdoua-webetu.univ-lyon1.fr/~p1502592 </a>
+				</p>
+			</div>
 		
 		
 		
