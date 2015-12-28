@@ -39,7 +39,6 @@
 					<ul>
 						<li><a href="Processeur.html">Processeur</a></li>
 						<li><a href="Carte_graphique.html">Carte graphique</a></li>
-						<li><a href="Memoire_ram.html">Memoire Ram</a></li>
 					</ul>
 				</li>
 				
@@ -58,7 +57,49 @@
 		
 		
 		<h1>PC portable</h1>
-		
+		<div class="tableau">
+			<table>
+					<tr>
+						<th>Acer C7</th>
+						<th>Caractéristiques</th>
+					</tr>
+						<tr>
+							<td><img src="../PC_portable.jpg" height="200" alt="Acer C7"/></a></td>
+							<td>
+								<p>
+									<b>Prix : 399&#8364;</b><br/><br/>
+									<b>Système d'exploitation :</b> Windows 10<br/>
+									<b>Poid :</b>1.4 kg<br/>
+									<b>Processeur :</b> Intel Core i3-5005U<br/>
+									<b>Mémoire :</b> 8 Go DDR3<br/>
+									<b>Stockage :</b> 1x240 Go SSD<br/>
+								</p>
+							</td>
+						</tr>
+			</table>
+
+			<br/>
+			
+			<table>
+<tr>
+						<th>Macbook pro</th>
+						<th>Caractéristiques</th>
+					</tr>
+						<tr>
+							<td><img src="../Macbook.png" height="200" alt="Macbook pro"/></a></td>
+							<td>
+								<p>
+									<b>Prix :  999&#8364;</b><br/><br/>
+									<b>Système d'exploitation :</b> OS X Mavericks<br/>
+									<b>Poid :</b>2 kg<br/>
+									<b>Processeur :</b> Intel Core I5 2.5 Ghz<br/>
+									<b>Mémoire :</b> 8 Go DDR3<br/>
+									<b>Stockage :</b> 1x480 SSD<br/>
+								</p>
+							</td>
+						</tr>
+			</table>
+		</div>
 		
 		
 			<footer>
