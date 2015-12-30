@@ -10,14 +10,14 @@
 
 
 	<header>
-		<img src="../logo.png" alt="Pcland" />
+		<img src="../Images/logo.png" alt="Pcland" />
 	</header>
 		
 		
 		
 		<div id="barrerecherche">
 			<form method="post" action="../Articles/Resultat_recherche.html" class="barre">
-				<input class="champ" type="text" name="recherche" onFocus="this.value"='' placeholder="Recherche">
+				<input class="champ" type="text" name="recherche" placeholder="Recherche">
 				<input class="button" id="recherche" value=" " type="submit">
 			</form>
 		</div>
@@ -57,31 +57,28 @@
 		</nav>
 		
 		
-
-		
-		
+		<h1>Bienvenu sur PCland !</h1>
 		<div class="tab_composants">
 			<table>
 				<tr>
-					<td><a href="../Articles/PC_portable.html"><img src="../PC_portable.jpg" height="200"  alt="PC_portable"/></a></td>
-					<td><a href="../Articles/PC_fixe.html"><img src="../PC_tour.jpg" height="200" alt="PC_tour"/></a></td>
-				</tr>
-				<tr>
-					<td>
+					<th>
 						<a href="../Articles/PC_portable.html">
 							<p>
-								<strong>Acer C7 512&#8364; </strong>
+							<strong>Acer C7 512&#8364; </strong>
 							</p>
 						</a>
-					</td>
-						
-					<td>
+					</th>
+					<th>
 						<a href="../Articles/PC_fixe.html">
 							<p>
 								<strong>PC Abaddon 499&#8364; </strong>
 							</p>
 						</a>
-					</td>
+					</th>
+				</tr>
+				<tr>
+					<td><a href="../Articles/PC_portable.html"><img src="../Images/PC_portable.jpg" alt="PC_portable"/></a></td>
+					<td><a href="../Articles/PC_fixe.html"><img src="../Images/PC_tour.jpg" alt="PC_tour"/></a></td>
 				</tr>
 				
 				<tr>
@@ -93,18 +90,18 @@
 				</tr>
 				
 				<tr>
-					<td><a href="../Articles/Processeur.html"><img src="../Processeurs.jpg" height="200" alt="Processeurs"/></a></td>
-				</tr>
-				<tr>
-					<td>
+					<th>
 						<a href="../Articles/Processeur.html">
 							<p>
 								<strong>Nouvelle generation de processeurs !</strong>
 							</p>
 						</a>
-					</td>
+					</th>
 				</tr>
-			<table>
+				<tr>
+					<td><a href="../Articles/Processeur.html"><img src="../Images/Processeurs.jpg" alt="Processeurs"/></a></td>
+				</tr>
+			</table>
 		</div>
 
 
