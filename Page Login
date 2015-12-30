@@ -10,14 +10,14 @@
 
 
 	<header>
-		<img src="../logo.png" alt="Pcland" />
+		<img src="../Images/logo.png" alt="Pcland" />
 	</header>
 		
 		
 		
 		<div id="barrerecherche">
 			<form method="post" action="../Articles/Resultat_recherche.html" class="barre">
-				<input class="champ" type="text" name="recherche" onFocus="this.value"='' placeholder="Recherche">
+				<input class="champ" type="text" name="recherche" placeholder="Recherche">
 				<input class="button" id="recherche" value=" " type="submit">
 			</form>
 		</div>
