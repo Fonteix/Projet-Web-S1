@@ -1,10 +1,9 @@
 body{
-	background-image: url(Page_de_garde/fond.jpg);
+	background-image: url(Images/fond.jpg);
 	background-position:center;
 	background-attachment:fixed;
 	background-size: cover;
 	background-repeat: no-repeat;}
-
 
 
 header{
@@ -14,19 +13,17 @@ header{
 	clear: both;}
 
 
-
 nav{
 	margin-left: 160px;
 	padding: 0px 400px 0px 1px;
 	background: linear-gradient(to bottom,  #7d7e7d 0%,#0e0e0e 100%);}
 
 
-
 #barrerecherche{/*marge a droite de la barre de recherche*/
 	margin-left: 37%;
 	margin-bottom: 30px;}
 .barre .champ{width:35%; height:40px;}
-.barre .button{background-image: url(Page_de_garde/bouton_recherche.png);
+.barre .button{background-image: url(Images/bouton_recherche.png);
 	background-repeat: no-repeat;
 	background-size: cover; 
 	width:45px; 
@@ -39,33 +36,31 @@ input{
     font-family: Verdana;}
 
 
-	
-.bouton_connexion .button_connexion{background-image: url(Gestion_client/connexion.png);
+.bouton_connexion .button_connexion{background-image: url(Images/connexion.png);
 	background-repeat: no-repeat;
 	background-size: cover; 
 	width:140px; 
 	height:5%;
 	border-radius: 10px 10px 10px 10px;}
-	
 
-	
-table{
-	padding:5% 10% 10% 10%;
-}
 
+table{padding:5% 10% 10% 10%;}
+
+
+.tab_composants table{max-width:1200px;} /*Il semblerait qu'il n'y ai que Chrome qui accepte cette règle*/
 
 
 h1{
 	text-align:center;
-	font-family: verdana;
-	border-top: 3px black outset;
-	border-bottom: 3px black outset;}
+	font-family:arial;
+	border-top: 3px solid black;
+	border-bottom: 3px solid black;}
 
-	
+
 #ID{padding: 80px 0px 220px;
   margin-left: auto;
   margin-right: auto;
-width: 272px;
+	width: 272px;
 }
 .barre_ID{padding: 0px 0px 10px 0px;}
 .barre_MDP{padding: 0px 0px 10px 0px;}
@@ -96,8 +91,8 @@ width: 272px;
 	text-align: center;
 }
 .tab_composants strong:hover{
-	color: red;}
-
+	color: red;
+}
 
 .tableau table{
 	border-collapse: collapse;
@@ -106,11 +101,17 @@ width: 272px;
 }
 .tableau td{
 	border: 1px solid black;}
-
+															 td{
+																border: 1px solid black;}
+																
+.Pcontact{
+	font-family:arial;
+	min-height: 436px;}
 
 
 footer {
 	text-align: center;
+	font-family:arial;
 	font-size: 12px;
 	font-style: italic;
 	clear: both;}
@@ -178,14 +179,6 @@ footer {
 }
 
 
-/*	background-color: #65537A;
-	background-image:-linear-gradient(top, #65537A 0%, #2A2333 100%);
-	background-image:linear-gradient(to bottom, #65537A 0%, #2A2333 100%);
-}*/
-
-
-
-
 /*couleur sous-menus*/
 #menu li:first-child li{
 	background:#333A40;
@@ -202,7 +195,6 @@ footer {
 #menu li:last-child li{
 	background:#677F35;
 }
-
 
 
 /*fond menu sous le curseur*/
