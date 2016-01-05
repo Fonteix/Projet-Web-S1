@@ -57,12 +57,12 @@
 		
 		
 		<h1>Login</h1>
-		<div id="ID">
+		<div class="ID">
 			<form method="post" action="" class="barre_ID">
 				<input class="champ" type="text" name="ID" onFocus="this.value"='' placeholder="Identifiant">
 			</form>
 			<form method="post" action="" class="barre_MDP">
-				<input class="champ" type="text" name="MDP" onFocus="this.value"='' placeholder="Mot de passe">
+				<input class="champ" type="password" name="MDP" onFocus="this.value"='' placeholder="Mot de passe">
 			</form>	
 			<label><input type=checkbox>Se souvenir de moi</label>
 			
@@ -75,7 +75,7 @@
 		
 			<footer>
 				<p>PCland<br/>Etienne Fonteix 2015-2016
-				<br/><a href="http://iutdoua-webetu.univ-lyon1.fr/~p1502592"> http://iutdoua-webetu.univ-lyon1.fr/~p1502592 </a></p>
+				<br/><a href="http://iutdoua-webetu.univ-lyon1.fr/~p1502592/Projet%20Web/Page_de_garde/Page_de_garde.html"> http://iutdoua-webetu.univ-lyon1.fr/~p1502592 </a></p>
 			</footer>
 	
 
