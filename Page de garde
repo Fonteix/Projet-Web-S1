@@ -13,7 +13,7 @@
 		<img src="../Images/logo.png" alt="Pcland" />
 	</header>
 		
-		
+
 		
 		<div id="barrerecherche">
 			<form method="post" action="../Articles/Resultat_recherche.html" class="barre">
@@ -21,7 +21,6 @@
 				<input class="button" id="recherche" value=" " type="submit">
 			</form>
 		</div>
-		
 		
 		
 		<nav>
@@ -59,12 +58,12 @@
 		
 		<h1>Bienvenu sur PCland !</h1>
 		<div class="tab_composants">
-			<table>
+			<table style="width:100%; max-width:100%;  table-layout:fixed;">
 				<tr>
 					<th>
 						<a href="../Articles/PC_portable.html">
 							<p>
-							<strong>Acer C7 512&#8364; </strong>
+								<strong>Acer C7 512&#8364; </strong>
 							</p>
 						</a>
 					</th>
@@ -109,7 +108,7 @@
 			
 			<footer>
 				<p>PCland<br/>Etienne Fonteix 2015-2016
-				<br/><a href="http://iutdoua-webetu.univ-lyon1.fr/~p1502592"> http://iutdoua-webetu.univ-lyon1.fr/~p1502592 </a></p>
+				<br/><a href="http://iutdoua-webetu.univ-lyon1.fr/~p1502592/Projet%20Web/Page_de_garde/Page_de_garde.html"> http://iutdoua-webetu.univ-lyon1.fr/~p1502592 </a></p>
 			</footer>
 	
 
