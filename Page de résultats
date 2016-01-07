@@ -58,8 +58,10 @@
 		
 		
 		<h1>Resultats</h1>
-		<div id="resultats">
-			
+		<div class="resultats">
+			<p>
+				Aucun résultat
+			</p>
 		</div>
 		
 		
